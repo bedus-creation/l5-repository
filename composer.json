@@ -56,5 +56,11 @@
       ]
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev",
+      "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/bedus-creation/laravel-validator"
+        }
+    ]
 }
